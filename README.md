@@ -55,9 +55,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math magicians <a name="about-project"></a>
+# 📖 Project <a name="about-project"></a>
 
-> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations
+> "Project"
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -112,7 +112,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository by using the command line : 
-- `git clone https://github.com/manq2010/math-magicians`
+- `git clone https://github.com/manq2010/<repo>`
 
 ### Install
 
